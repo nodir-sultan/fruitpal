@@ -1,9 +1,15 @@
 #**Introduction**
 Fruitpal windows console app test automation project will be used mostly for functional CLI tests.
 
+##**Prerequisites**
+Gradle 6.5
+Open JDK 1.8.0_191
+
 ##**Clone a repository**
-Use these steps to clone from GitHub, our client for using the repository command-line free. 
-Cloning allows you to work on your files locally. If you don't yet have SourceTree, download and install first. If you prefer to clone from the command line, see Clone a repository.
+
+https://github.com/nodir-sultan/fruitpal
+> Use these steps to clone from GitHub, our client for using the repository command-line free. 
+  Cloning allows you to work on your files locally. If you don't yet have SourceTree, download and install first. If you prefer to clone from the command line, see Clone a repository.
 
 >You’ll see the clone button under the Source heading. Click that button.
 Now click Check out in GitHub. You may need to create a GitHub account or log in.
@@ -12,11 +18,12 @@ Open the directory you just created to see your repository’s files.
 Now that you're more familiar with your Bitbucket repository, go ahead and add a new file locally. 
 
 ##**Dependencies**
-For running tests - TestNG runner
+For running tests - TestNG test runner
 
 For sending CLI commands - Expectit |https://github.com/Alexey1Gavrilov/ExpectIt|
 
 For preparing the body and uploading test data - Gson
+
 Logging - slf4j
 
 ##**Project structure:**
