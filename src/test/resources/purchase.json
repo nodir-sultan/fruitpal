@@ -1,0 +1,12 @@
+[
+  {
+    "commodity": "orange",
+    "price": "20",
+    "tradeVolume": "50"
+  },
+  {
+    "commodity": "orange",
+    "price": "1",
+    "tradeVolume": "50"
+  }
+]

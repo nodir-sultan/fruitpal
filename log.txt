@@ -1,0 +1,770 @@
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
+Starting cost logic.
+Loading data.
+Filtering fruit results by input fruit.
+Calculating total cost and formatting output string.
+Cost logic completed.
